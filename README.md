@@ -5,7 +5,7 @@
 -->
 
 # public_carpool_site
-카풀 사이트
+카풀 사이트 구상
 
 #### 클라우드서비스
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>&nbsp;
@@ -16,6 +16,8 @@
 
 #### 프론트앤드, 어플리케이션
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
+or
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp;
 
 #### 데이터베이스
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>&nbsp;
