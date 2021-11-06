@@ -1,3 +1,9 @@
+<!--
+<a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp;
+-> 배지는 https://shields.io/
+-> 아이콘은 https://simpleicons.org/
+-->
+
 # public_carpool_site
 카풀 사이트
 
@@ -6,6 +12,7 @@
 
 #### 백엔드
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>&nbsp;
 
 #### 프론트앤드, 어플리케이션
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
