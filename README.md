@@ -29,6 +29,8 @@ or
 #### 머신러닝 엔진
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>&nbsp;
+- 사용자간의 거리나 사용자들 출발점 도착점 사이의 연관성을 점수화
+- 취미 대화주제 등의 연관성을 점수화
 
 #### 모니터링
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>&nbsp;
