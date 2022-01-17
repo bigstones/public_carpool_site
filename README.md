@@ -35,10 +35,10 @@ or
 #### 모니터링
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>&nbsp;
 
-#### 분류 알고리즘
-- knn
-- k-means
-- svm
+#### 군집화 알고리즘
+- kmeans
+- birch
+- gmm
 
 #### 기타 특이사항
 
